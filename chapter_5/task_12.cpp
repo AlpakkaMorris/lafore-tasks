@@ -1,5 +1,5 @@
 #include <iostream>
-
+//komment 
 struct fraction
 {
     int num;
